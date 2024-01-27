@@ -3,5 +3,8 @@
   "version": "0.0.0",
   "scripts": {
     "start": "node . vCard.vcf"
+  },
+  "dependencies": {
+    "vcard-parser": "^1.0.0"
   }
 }
