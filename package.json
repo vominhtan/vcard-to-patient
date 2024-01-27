@@ -5,6 +5,7 @@
     "start": "node . vCard.vcf"
   },
   "dependencies": {
+    "uuid": "^9.0.1",
     "vcard-parser": "^1.0.0"
   }
 }
